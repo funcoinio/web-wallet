@@ -523,12 +523,12 @@ MSG_info2                   : 'Include your nickname and where you use the nickn
 MSG_info3                   : 'Include a specific reason for the message so it cannot be reused for a different purpose. ',
 
 /* View Wallet Details */
-VIEWWALLET_Subtitle         : 'This allows you to download different versions of private keys and re-print your paper wallet. You may want to do this in order to [import your account into Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). If you want to check your balance, we recommend using a blockchain explorer like [explorer.ether1.org](https://explorer.ether1.org/#/). ',
+VIEWWALLET_Subtitle         : 'This allows you to download different versions of private keys and re-print your paper wallet. You may want to do this in order to [import your account into Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). If you want to check your balance, we recommend using a blockchain explorer like [explorer.funcoin.io](https://explorer.funcoin.io/#/). ',
 VIEWWALLET_Subtitle_Short   : 'This allows you to download different versions of private keys and re-print your paper wallet. ',
 VIEWWALLET_SuccessMsg       : 'Success! Here are your wallet details. ',
 VIEWWALLET_ShowPrivKey      : '(show)',
 VIEWWALLET_HidePrivKey      : '(hide)',
-VIEWWALLET_Subtitle         : 'Ceci vous permet de télécharger plusieurs versions des clefs privées et de ré-imprimer votre portefeuille papier. Vous devrez le faire pour [importer votre compte dans Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Si vous voulez consulter votre solde, nous recommandons d\'utiliser un explorateur de blockchain comme [explorer.ether1.org](https://explorer.ether1.org/#/). ',
+VIEWWALLET_Subtitle         : 'Ceci vous permet de télécharger plusieurs versions des clefs privées et de ré-imprimer votre portefeuille papier. Vous devrez le faire pour [importer votre compte dans Geth/Mist](http://ethereum.stackexchange.com/questions/465/how-to-import-a-plain-private-key-into-geth/). Si vous voulez consulter votre solde, nous recommandons d\'utiliser un explorateur de blockchain comme [explorer.funcoin.io](https://explorer.funcoin.io/#/). ',
 VIEWWALLET_Subtitle_Short   : 'Ceci vous permet de télécharger plusieurs versions des clefs privées et de ré-imprimer votre portefeuille papier. ',
 VIEWWALLET_SuccessMsg       : 'Succès ! Voici les détails de votre portefeuille. ',
 
