@@ -830,10 +830,10 @@ HELP_15_Title               : '15) Pourquoi le compte que je viens de créer n\'
 HELP_15_Desc_1              : 'Les comptes n\'apparaissent dans un explorateur de blockchain qu\'après une activité, comme par exemple, un envoi ou une réception d\'Ether.',
 
 HELP_16_Title               : '16) Comment puis-je vérifier le solde de mon compte ?',
-HELP_16_Desc_1              : 'Vous pouvez utiliser un explorateur de blockchain comme [explorer.ether1.org](https://explorer.ether1.org/#/). Collez votre adresse dans la barre de recherche et cela récupérera votre solde et l\'historique de vos transactions. Par exemple, voici ce que montre notre [compte de donations](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) sur explorer.ether1.org',
+HELP_16_Desc_1              : 'Vous pouvez utiliser un explorateur de blockchain comme [explorer.ether1.org](https://explorer.ether1.org/#/). Collez votre adresse dans la barre de recherche et cela récupérera votre solde et l\'historique de vos transactions. Par exemple, voici ce que montre notre [compte de donations](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) surexplorer.funcoin.io',
 
 HELP_17_Title               : '17) Pourquoi mon solde n\'apparaît-il pas quand je déverrouille mon portefeuille ?',
-HELP_17_Desc_1              : 'C\'est probablement dû au fait que vous vous trouviez derrière un parefeu. L\'API que nous utilisons pour obtenir le solde et converir celui-ci est souvent bloquée par des parefeus pour des raisons diverses. Vous êtes toujours capable d\'envoyer des transactions mais il vous faut employer une autre méthode pour voir le solde, comme explorer.ether1.org',
+HELP_17_Desc_1              : 'C\'est probablement dû au fait que vous vous trouviez derrière un parefeu. L\'API que nous utilisons pour obtenir le solde et converir celui-ci est souvent bloquée par des parefeus pour des raisons diverses. Vous êtes toujours capable d\'envoyer des transactions mais il vous faut employer une autre méthode pour voir le solde, commeexplorer.funcoin.io',
 
 HELP_18_Title               : '18) Où est le fichier de mon portefeuille geth ?',
 

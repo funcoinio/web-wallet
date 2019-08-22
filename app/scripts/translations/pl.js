@@ -830,7 +830,7 @@ HELP_15_Title               : '15) Dlaczego portfel, który właśnie wygenerowa
 HELP_15_Desc_1              : 'Adres pojawi się w eksploratorze bloków dopiero jak adres portfela będzie uczestniczył w jakichś transakcjach, np. jak wyślesz do niego jakieś środki. ',
 
 HELP_16_Title               : '16) Jak sprawdzić stan mojego konta? ',
-HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [explorer.ether1.org](https://explorer.ether1.org/#/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) na explorer.ether1.org. ',
+HELP_16_Desc_1              : 'Możesz użyć eksploratora bloków jak [explorer.ether1.org](https://explorer.ether1.org/#/). Wklej swój adres w wyszukiwarkę na stronie eksploratora, pokaże ona stan Twojego konta oraz historię transakcji. Tak na przykład wygląda nasze [konto donacji](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) naexplorer.funcoin.io. ',
 
 HELP_17_Title               : '17) Dlaczeg stan mojego konta nie pojawia się, kiedy odblokowuje mój portfel? ',
 HELP_17_Desc_1              : 'Najprawdopodobniej przyczyną tego jest firewall. API, które używamy do odczytu stanu konta oraz jego konwersji jest często blokowane przez firewall z różnych przyczyn. Wciąż możesz wysyłać transakcje, jednak stan konta musisz sprawdzać w inny sposób, np. na [explorer.ether1.org](https://explorer.ether1.org/#/) ',

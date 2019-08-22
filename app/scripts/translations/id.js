@@ -830,10 +830,10 @@ HELP_15_Title               : '15) Kenapa akun yang baru saja saya buat tidak mu
 HELP_15_Desc_1              : 'Account hanya akan muncul di explorer blockchain begitu akun memiliki aktivitas di dalamnya&mdash;misalnya, setelah Anda memindahkan beberapa Ether ke sana. ',
 
 HELP_16_Title               : '16) Bagaimana cara memeriksa saldo akun saya? ',
-HELP_16_Desc_1              : 'Anda bisa menggunakan eksplorer blockchain seperti [explorer.ether1.org](https://explorer.ether1.org/#/). Paste alamat Anda ke dalam search bar dan riwayat transaksi Anda akan ditampilkan. Contohnya, [akun donasi kami](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) dilihat di explorer.ether1.org ',
+HELP_16_Desc_1              : 'Anda bisa menggunakan eksplorer blockchain seperti [explorer.ether1.org](https://explorer.ether1.org/#/). Paste alamat Anda ke dalam search bar dan riwayat transaksi Anda akan ditampilkan. Contohnya, [akun donasi kami](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) dilihat diexplorer.funcoin.io ',
 
 HELP_17_Title               : '17) Mengapa saldo saya tidak muncul saat saya membuka dompet saya? ',
-HELP_17_Desc_1              : 'Hal ini kemungkinan besar karena Anda berada di belakang firewall. API yang kami gunakan untuk mendapatkan saldo dan mengonversi saldo tersebut terkadang diblokir oleh firewall. Anda masih bisa mengirim transaksi, Anda hanya perlu menggunakan metode yang berbeda untuk melihat saldo tersebut, misalnya memakai explorer.ether1.org ',
+HELP_17_Desc_1              : 'Hal ini kemungkinan besar karena Anda berada di belakang firewall. API yang kami gunakan untuk mendapatkan saldo dan mengonversi saldo tersebut terkadang diblokir oleh firewall. Anda masih bisa mengirim transaksi, Anda hanya perlu menggunakan metode yang berbeda untuk melihat saldo tersebut, misalnya memakaiexplorer.funcoin.io ',
 
 HELP_18_Title               : '18) Dimana file dompet geth saya? ',
 

@@ -829,10 +829,10 @@ HELP_15_Title               : '15) Vì sao tài khoản của tôi vừa tạo l
 HELP_15_Desc_1              : 'Tài khoản của bạn chỉ tồn tại duy nhất trên một Blockchain Explorer và tài khoản được kích hoạt khi bởi chính nó khi bạn dùng tài khoản đó và chuyển Ether vào tức khắc tài khoản sử dụng sẽ hiển thị trên hệ thống Blockchain Explorer thích hợp. ',
 
 HELP_16_Title               : '16) Làm thế nào dễ kiễm tra số dư hiện tại của tài khoản? ',
-HELP_16_Desc_1              : 'Bạn có thể sử dụng Blockchain Explorer dễ kiễm tra, Ví dụ: [explorer.ether1.org](https://explorer.ether1.org/#/). Dán địa chỉ của bạn vào khung tìm kiếm và nó sẽ hiển thị tài khoản của bạn và toạn bộ lịch sữ giao dịch đã thực hiện đối với địa chỉ này. Ví Dụ: Đây là địa chỉ của chúng tôi [donation account](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) được trông thấy trên explorer.ether1.org ',
+HELP_16_Desc_1              : 'Bạn có thể sử dụng Blockchain Explorer dễ kiễm tra, Ví dụ: [explorer.ether1.org](https://explorer.ether1.org/#/). Dán địa chỉ của bạn vào khung tìm kiếm và nó sẽ hiển thị tài khoản của bạn và toạn bộ lịch sữ giao dịch đã thực hiện đối với địa chỉ này. Ví Dụ: Đây là địa chỉ của chúng tôi [donation account](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D) được trông thấy trênexplorer.funcoin.io ',
 
 HELP_17_Title               : '17) Tại sao số dư tài khoản của tôi không hiển thị khi tôi truy cập vào tài khoản? ',
-HELP_17_Desc_1              : 'Vấn đề này rất có thể xảy ra nếu như máy tính của bạn đang kích hoạt tường lửa. Các API mà chúng tôi sử dụng nhằm tải xuống số Dư của hiện có của tài khoản và chuyển đổi số dư thường bị chặn bởi tường lửa bởi bất kì lý do nào. Nhưng bạn vẫn có thể gửi đi các giao dịch và bạn chỉ cần sử dụng một phương pháp khác dễ kiễm tra số dư của bạn hiện tại trước và sau khi giao dịch được thực hiện, ví dụ: explorer.ether1.org ',
+HELP_17_Desc_1              : 'Vấn đề này rất có thể xảy ra nếu như máy tính của bạn đang kích hoạt tường lửa. Các API mà chúng tôi sử dụng nhằm tải xuống số Dư của hiện có của tài khoản và chuyển đổi số dư thường bị chặn bởi tường lửa bởi bất kì lý do nào. Nhưng bạn vẫn có thể gửi đi các giao dịch và bạn chỉ cần sử dụng một phương pháp khác dễ kiễm tra số dư của bạn hiện tại trước và sau khi giao dịch được thực hiện, ví dụ:explorer.funcoin.io ',
 
 HELP_18_Title               : '18) Tập tin chứa định dạng Geth của ví tôi nằm ở đâu? ',
 

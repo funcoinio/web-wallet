@@ -813,10 +813,10 @@ HELP_15_Title               : '15) Hoe komt het dat het wallet wat ik zojuist he
 HELP_15_Desc_1              : 'Adresen zullen enkel in een blockchain explorer worden weergegeven zodra er activiteit op een account heeft plaats gevonden. Bijvoorbeeld, zodra je er wat Ether naar toe verzonden hebt. ',
 
 HELP_16_Title               : '16) Hoe check ik het saldo van mijn account? ',
-HELP_16_Desc_1              : 'Je kunt hiervoor een blockchain explorer gebruiken zoals bijvoorbeeld [explorer.ether1.org](https://explorer.ether1.org/#/). Plak daar je adres in de zoekbalk en je adres en transactie geschiedenis zullen worden getoond. Bekijk bijvoobeeld hoe ons [donatie account](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)  eruit ziet op explorer.ether1.org ',
+HELP_16_Desc_1              : 'Je kunt hiervoor een blockchain explorer gebruiken zoals bijvoorbeeld [explorer.ether1.org](https://explorer.ether1.org/#/). Plak daar je adres in de zoekbalk en je adres en transactie geschiedenis zullen worden getoond. Bekijk bijvoobeeld hoe ons [donatie account](https://explorer.ether1.org/addr/0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D)  eruit ziet opexplorer.funcoin.io ',
 
 HELP_17_Title               : '17) Waarom wordt mijn saldo niet weergegeven nadat ik mijn wallet heb ontsleuteld? ',
-HELP_17_Desc_1              : 'Dit wordt zeer waarschijnlijk veroorzaakt door het feit dat je achter een firwall zit. De API waarvan we gebruik maken om je saldo op te halen en te converteren wordt vaak geblokkeerd door firewalls om wat voor reden dan ook. Het is nog steeds mogelijk om transacties te verzenden, je hebt enkel een andere methode nodig om je saldo the checken, zoals bijvoorbeeld explorer.ether1.org ',
+HELP_17_Desc_1              : 'Dit wordt zeer waarschijnlijk veroorzaakt door het feit dat je achter een firwall zit. De API waarvan we gebruik maken om je saldo op te halen en te converteren wordt vaak geblokkeerd door firewalls om wat voor reden dan ook. Het is nog steeds mogelijk om transacties te verzenden, je hebt enkel een andere methode nodig om je saldo the checken, zoals bijvoorbeeldexplorer.funcoin.io ',
 
 HELP_18_Title               : '18) Waar is mijn Geth wallet bestand? ',
 
